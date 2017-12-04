@@ -1,5 +1,0 @@
-{
-    "TopicArn": "arn:aws:sns:ap-south-1:431907307567:Topic_3",
-    "QueueUrl": "https://sqs.ap-south-1.amazonaws.com/431907307567/Sample_Queue",
-    "QueueArn": "arn:aws:sqs:ap-south-1:431907307567:Sample_Queue"
-}

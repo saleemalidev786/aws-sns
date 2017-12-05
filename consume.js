@@ -5,8 +5,7 @@ var config = require('./config.json');
 // configure AWS
 AWS.config.update({
   'region': 'ap-south-1',
-  'accessKeyId': 'AKIAJ6S4XXCS5HPHCAYQ',
-  'secretAccessKey': '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'
+  
 });
 
 var sqs = new AWS.SQS();
